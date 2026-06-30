@@ -1,0 +1,20 @@
+{
+  "camera": 0,
+  "backend": "auto",
+  "scan_limit": 10,
+  "width": 1280,
+  "height": 720,
+  "clusters": 12,
+  "analysis_width": 360,
+  "analyze_every": 4,
+  "min_area": 800,
+  "min_coverage": 0.003,
+  "max_palette": 10,
+  "max_regions": 24,
+  "sample_radius": 2,
+  "mirror": true,
+  "show_regions": true,
+  "adaptive_performance": true,
+  "target_fps": 24.0,
+  "output_dir": "output"
+}
